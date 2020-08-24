@@ -24,4 +24,4 @@ I am a programmer who is currently learning new stuff and working on some fun pr
 [youtube]: https://www.youtube.com/channel/UCoxvdTSiNhGyXnQVczlkCig
 [astrocore]: https://www.astrocore.net/
 [astrocoregithub]: https://github.com/PY44N/Gamehub
-[astrocorediscord] : https://www.astrocore.net/Other/Discord/
+[astrocorediscord]: https://www.astrocore.net/Other/Discord/
