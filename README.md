@@ -18,7 +18,7 @@ I am a programmer who is currently learning new stuff and working on some fun pr
 ### Astrocore
 [<img align="left" alt="astrocore.net" width="22px" src="https://github.com/PY44N/PY44N/raw/master/Img/globe.png" />][astrocore]
 [<img align="left" alt="Astrocore | Github" width="22px" src="https://github.com/PY44N/PY44N/raw/master/Img/github.png" />][astrocoregithub]
-[<img align="left" alt="Astrocore | Discord" width="22px" src="https://github.com/PY44N/PY44N/raw/master/Img/discord.png" />][astrocorediscord]
+[<img align="left" alt="Astrocore | Discord" width="22px" src="https://github.com/PY44N/PY44N/raw/master/Img/discord.png" />][astrocorediscord]⠀
 
 <img align="left" alt="Pyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PY44N&show_icons=true&hide_border=true" />
 
