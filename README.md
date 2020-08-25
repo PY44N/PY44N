@@ -12,5 +12,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=py44n&show_icons=true" alt="py44n" /></p>
 
 <p align="center">
-<a href="https://www.youtube.com/c/pyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pyan" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCoxvdTSiNhGyXnQVczlkCig" target="blank"><img align="center" src="https://github.com/PY44N/PY44N/raw/master/Img/youtube.png" alt="pyan" height="30" width="30" /></a>
 </p>
