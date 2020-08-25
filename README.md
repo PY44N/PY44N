@@ -1,28 +1,16 @@
-# Pyan
-I am a programmer who is currently learning new stuff and working on some fun projects
+<h1 align="center">Hi 👋, I'm Pyan</h1>
+<h3 align="center">A programmer who is currently learning new stuff and working on some fun projects</h3>
 
-## Languages
-<img align="left" alt="Node.js" width="26px" src="https://github.com/PY44N/PY44N/raw/master/Img/nodejs.png" />
-<img align="left" alt="LUA" width="26px" src="https://github.com/PY44N/PY44N/raw/master/Img/lua.png" />
-<img align="left" alt="C#" width="26px" src="https://github.com/PY44N/PY44N/raw/master/Img/c%23.png" />
-<img align="left" alt="HTML" width="26px" src="https://github.com/PY44N/PY44N/raw/master/Img/html.png" />
-<img align="left" alt="CSS" width="26px" src="https://github.com/PY44N/PY44N/raw/master/Img/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/PY44N/PY44N/raw/master/Img/javascript.png" />
-<img align="left" alt="C++" width="26px" src="https://github.com/PY44N/PY44N/raw/master/Img/c%2B%2B.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/PY44N/PY44N/raw/master/Img/python.png" />⠀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=py44n" alt="py44n" /> </p>
 
-## Connect With Me
-[<img align="left" alt="Pyan | YouTube" width="22px" src="https://github.com/PY44N/PY44N/raw/master/Img/youtube.png" />][youtube]⠀
+- 🔭 I’m currently working on [Astrocore](https://github.com/PY44N/Gamehub)
 
-## Projects
-### Astrocore
-[<img align="left" alt="astrocore.net" width="22px" src="https://github.com/PY44N/PY44N/raw/master/Img/globe.png" />][astrocore]
-[<img align="left" alt="Astrocore | Github" width="22px" src="https://github.com/PY44N/PY44N/raw/master/Img/github.png" />][astrocoregithub]
-[<img align="left" alt="Astrocore | Discord" width="22px" src="https://github.com/PY44N/PY44N/raw/master/Img/discord.png" />][astrocorediscord]⠀
+- 🌱 I’m currently learning **Node.js**
 
-<img align="left" alt="Pyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PY44N&show_icons=true&hide_border=true" />
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=py44n&layout=compact&hide=html" alt="py44n" /></p>
 
-[youtube]: https://www.youtube.com/channel/UCoxvdTSiNhGyXnQVczlkCig
-[astrocore]: https://www.astrocore.net/
-[astrocoregithub]: https://github.com/PY44N/Gamehub
-[astrocorediscord]: https://www.astrocore.net/Other/Discord/
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=py44n&show_icons=true" alt="py44n" /></p>
+
+<p align="center">
+<a href="https://www.youtube.com/c/pyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pyan" height="30" width="30" /></a>
+</p>
