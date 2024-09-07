@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Pyan</h1>
-<h3 align="center">A programmer who is currently learning new stuff and working on some fun projects</h3>
+<h1 align="center">Hi, I'm Ryan</h1>
+<!-- <h3 align="center">A programmer who is currently learning new stuff and working on some fun projects</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=py44n" alt="py44n" /> </p>
 
